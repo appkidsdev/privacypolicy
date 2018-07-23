@@ -20,4 +20,4 @@
 
 # Контакты
 
-e-mail: appkidsdev@gmail.com
+appkidsdev@gmail.com
