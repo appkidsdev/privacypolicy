@@ -1,2 +1,2 @@
 # privacypolicy
-Privacy policy for applications
+Privacy policy for "Draw, baby!" application.
