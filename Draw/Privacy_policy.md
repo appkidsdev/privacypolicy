@@ -65,8 +65,6 @@ The Service uses the collected data for various purposes:
 	* to monitor the usage of the Service
 	
 	* to detect, prevent and address technical issues
-	
-	*
 
 # Service Providers
 
