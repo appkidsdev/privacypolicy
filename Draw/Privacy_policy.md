@@ -9,6 +9,7 @@ We built the Draw, baby! app as a Free app. This Service is provided by at no co
 
 This page is used to inform website visitors regarding this policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use the Service.
+
 If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. 
 The Personal Information that we collect is used for providing and improving the Service. We will not use or share 
 your information with anyone except as described in this Privacy Policy.
@@ -22,21 +23,24 @@ We collect several different types of information for various purposes to provid
 While using our Service, we never ask you to provide us with personal data that can be used to contact or identify you such as:
 name, address, email, location, photos, videos, drawings, the ability to chat, other personal data, 
 or persistent identifiers used in combination with any of the above.
+
 We do not collect, transmit, or share any personal information explicitly.
+
 We do not require registration.
+
 We do not send newsletters to e-mail.
+
 We do not use Google Account Login
 
-For a better experience, while using our Service, the app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app [Google Play Services](https://policies.google.com/privacy).
+For a better experience, while using our Service, the app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app [Google Play Services](https://policies.google.com/privacy).
 
 ## Usage Data
 
 We want to inform you that whenever you use the Service, in a case of an error in the app 
 we collect data and information (through third party products) on your phone called Log Data. 
+
 This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, 
-the configuration of the app when utilizing the Service, 
-the time and date of your use of the Service, and other statistics.
+the configuration of the app when utilizing the Service, the time and date of your use of the Service, and other statistics.
 
 ## Cookies
 
@@ -68,15 +72,12 @@ The Service uses the collected data for various purposes:
 
 # Service Providers
 
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, 
-to perform Service-related services or to assist us in analyzing how our Service is used.
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 # Security
 
-We value your trust in providing us your Personal Information, 
-thus we are striving to use commercially acceptable means of protecting it. 
-But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, 
 and we cannot guarantee its absolute security.
 
 # Links to Other Sites
