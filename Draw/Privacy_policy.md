@@ -7,7 +7,7 @@ Effective July 26, 2018
 
 We built the Draw, baby! app as a Free app. This Service is provided by at no cost and is intended for use as is.
 
-This page is used to inform website visitors regarding this policies with the collection, use, and 
+This page is used to inform website visitors regarding our policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use the Service.
 
 If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. 
@@ -20,19 +20,19 @@ We collect several different types of information for various purposes to provid
 
 ## Personal Data
 
-While using our Service, we never ask you to provide us with personal data that can be used to contact or identify you such as:
-name, address, email, location, photos, videos, drawings, the ability to chat, other personal data, 
-or persistent identifiers used in combination with any of the above.
-
-We do not collect, transmit, or share any personal information explicitly.
+We never ask you to provide us the following personal data that can be used to contact or identify you: name, address, email, location, photos, videos, drawings, the ability to chat.
 
 We do not require registration.
 
 We do not send newsletters to e-mail.
 
-We do not use Google Account Login
+We do not use Google Account Login.
 
-For a better experience, while using our Service, the app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app [Google Play Services](https://policies.google.com/privacy).
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+	* Cookies and Usage Data
+	
+The app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app [Google Play Services](https://policies.google.com/privacy).
 
 ## Usage Data
 
@@ -70,15 +70,41 @@ The Service uses the collected data for various purposes:
 	
 	* to detect, prevent and address technical issues
 
-# Service Providers
+# Disclosure Of Data
 
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+## Legal Requirements
+
+We may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+	* to comply with a legal obligation
+	
+	* to protect and defend the rights or property of appkidsdev
+	
+	* to prevent or investigate possible wrongdoing in connection with the Service
+	
+	* to protect the personal safety of users of the Service or the public
+	
+	* to protect against legal liability
 
 # Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, 
 and we cannot guarantee its absolute security.
+
+# Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+	* Google Analytics
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [Google Play Services](https://policies.google.com/privacy).
 
 # Links to Other Sites
 
