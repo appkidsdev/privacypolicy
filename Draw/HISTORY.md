@@ -1,9 +1,6 @@
-=================
-Draw, baby!
-=================
+# Draw, baby!
 
 :Author: appkidsdev
-
 :Contact: appkidsdev@gmail.com
 
 Version 1.1 
@@ -23,4 +20,11 @@ That error is thrown when application enters the Paused state, for example, when
 In this moment application is trying to save the drawing in order to restore the state later, but due to lack of memory space it cannot be allocated.
 
 Accoding to Google Test Report it was thrown for LG G6 (Android 7.0) and Galaxy S7 edge (Android 6.0).
+
+Version 1.3
+==============================
+
+* Update Privacy policy.
+* Added saving the pictures.
+
 
