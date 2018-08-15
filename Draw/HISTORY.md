@@ -1,6 +1,7 @@
 # Draw, baby!
 
 :Author: appkidsdev
+
 :Contact: appkidsdev@gmail.com
 
 Version 1.1 
