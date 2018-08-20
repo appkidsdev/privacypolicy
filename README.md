@@ -1,2 +1,9 @@
-# Privacy policy
-Privacy policy for the applications.
+:Author: appkidsdev
+
+:Contact: appkidsdev@gmail.com
+
+# Contents
+
+## Draw
+
+"Draw, baby!" application
