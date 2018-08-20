@@ -25,4 +25,6 @@ Accoding to Google Test Report it was thrown for LG G6 (Android 7.0) and Galaxy 
 * Update Privacy policy.
 * Added saving the pictures.
 
+## Version 2.0 Release
+
 
