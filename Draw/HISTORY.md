@@ -30,6 +30,12 @@ Accoding to Google Test Report it was thrown for LG G6 (Android 7.0) and Galaxy 
 ## Version 2.1 Release
 
 * Solved errors during application installation.
+
+That error is thrown when the application is installing while the screen is off.
+
 * Solved errors occure while trying to load pictures.
+
+To avoid java.lang.OutOfMemory exceptions, a resolution version of the picture matchs the size of the UI component that displays that picture is load.
+
 * Added more picture.
 * Changed the color scheme to improve performance.
