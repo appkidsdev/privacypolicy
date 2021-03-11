@@ -39,3 +39,8 @@ To avoid java.lang.OutOfMemory exceptions, a resolution version of the picture m
 
 * Added more picture.
 * Changed the color scheme to improve performance.
+
+## Version 2.2 Release
+
+* Added more picture.
+* Changed Russian letters to English letters.
